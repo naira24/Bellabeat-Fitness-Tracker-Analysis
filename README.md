@@ -1,4 +1,4 @@
-## 🔔 Bellabeat Data Analysis Project 📈
+##  Bellabeat Data Analysis Project 📈
 
 This project involves analyzing fitness tracker data from Bellabeat users to derive insights and provide data-driven recommendations for marketing and product strategy.
 
