@@ -28,30 +28,16 @@ Based on the analysis, the following insights and recommendations have been iden
 -   **Data Processing & Analysis:** Alteryx (`Workflow2.yxmd`)
 -   **Data Storage:** CSV files
 
-### 📁 Repository Structure
-
--   `DailyActivity.csv`: Daily activity data.
--   `SleepDay.csv`: Daily sleep data.
--   `WeightLogInfo.csv`: Weight logging information.
--   `Workflow2.yxmd`: Alteryx workflow for data processing and analysis.
--   `image.png`: Visual representation of insights-driven recommendations.
-
-*(Note: PDF files such as `chapter1.pdf`, `chapter2.pdf`, and `chapter3.pdf` were provided but could not be directly processed for content. If these contain additional project details, please extract the text and provide it for inclusion in the README.)*
-
 ### 🚀 Getting Started
 
 To explore this project:
 
 1.  Clone the repository to your local machine.
-2.  Open `Workflow2.yxmd` with Alteryx Designer to review the data processing and analysis steps.
+2.  Open `Final Workflow.yxmd` with Alteryx Designer to review the data processing and analysis steps.
 3.  Examine the CSV files to understand the raw data.
 
 ### 📄 License
 
 This project is open-source and available under the MIT License. (A `LICENSE` file can be added if not already present.)
-
-### 📞 Contact
-
-For any questions or collaborations, please reach out via the GitHub repository.
 
 
