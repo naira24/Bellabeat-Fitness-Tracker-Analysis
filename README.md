@@ -19,9 +19,7 @@ The analysis is based on the following datasets:
 Based on the analysis, the following insights and recommendations have been identified:
 
 -   **Activity Goal Achievement:** Approximately 45.75% of users did not meet the 150-minute Moderate to Vigorous Physical Activity (MVPA) goal. Bellabeat can leverage active minutes as a health metric and send reminders to users to help them meet their weekly targets.
--   **Product Promotion:** Bellabeat should emphasize how its products support fitness goals to effectively engage its target audience, especially considering that only a small percentage of users (7) exhibit a very active lifestyle.
 -   **Sedentary Behavior:** A significant portion of time (79.98%) is spent in sedentary activities. Bellabeat can recommend customized exercise plans to attract new customers and enhance its marketing strategy.
--   **Targeted Discounts:** Consider promoting Bellabeat products with exclusive discounts on Wednesdays, Thursdays, and Fridays, as these days show a decrease in average total steps, indicating potential opportunities for engagement.
 
 ### 🛠️ Tools and Technologies
 
