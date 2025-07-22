@@ -16,7 +16,7 @@ The analysis is based on the following datasets:
 
 ### ✨ Key Insights & Recommendations
 
-Based on the analysis, the following insights and recommendations have been identified:
+Based on the analysis, the following insights have been identified:
 
 -   **Activity Goal Achievement:** Approximately 45.75% of users did not meet the 150-minute Moderate to Vigorous Physical Activity (MVPA) goal. Bellabeat can leverage active minutes as a health metric and send reminders to users to help them meet their weekly targets.
 -   **Sedentary Behavior:** A significant portion of time (79.98%) is spent in sedentary activities. Bellabeat can recommend customized exercise plans to attract new customers and enhance its marketing strategy.
