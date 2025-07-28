@@ -24,7 +24,6 @@ Based on the analysis, the following insights have been identified:
 ### 🛠️ Tools and Technologies
 
 -   **Data Processing & Analysis:** Alteryx (`Final Workflow.yxmd`)
--   **Data Storage:** CSV files
 
 ### 🚀 Getting Started
 
